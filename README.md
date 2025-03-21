@@ -12,4 +12,3 @@ Imagine que você é um estudante de Engenharia de Software, prestes a escrever 
 - Utilizar inteligência artificial para gerar respostas baseadas no conteúdo dos documentos.
 - Desenvolver um chat interativo onde perguntas podem ser feitas e respostas contextuais obtidas.
 
-## 📂 Estrutura do Repositório
